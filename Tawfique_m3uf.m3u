@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-Prepared By: Tawfique IPTV
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Banglavision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel i
@@ -107,19 +108,19 @@ https://vods2.aynaott.com/hindimovies/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",Republic Bangla
 https://raw.githubusercontent.com/ahan443/vibe-tv/refs/heads/main/RepublicBangla.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",Calcutta News
-https://akdnetwork.com/cnnews/index.m3u8
+https://akdnetwork.com/cnnews/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",Aaj Tak HD
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",R Plus News
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",NDTV Hindi
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla
-http://14.96.244.82:5001/live/740.m3u8
+http://14.96.244.82:5001/live/740.m3u8#tawfique-iptv
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8#tawfique-iptv
@@ -139,7 +140,7 @@ https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8#tawfique-iptv
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV",Alankar TV
 https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV",Amar Bangla [Backup 1]
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV",Amar Bangla
 http://115.187.41.216:8080/hls/amarbangla/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV",Probashi TV
 http://158.69.24.53:8080/probashi_tv/index.m3u8#tawfique-iptv
