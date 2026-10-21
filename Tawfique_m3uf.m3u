@@ -5,11 +5,15 @@
 #EXT-X: Tawfique IPTV telegram group private: https://t.me/+PlkEVDvoxeJlMjM9
 ======================================================================================
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV
-https://btv.hridoytv-channel.workers.dev/btv.m3u8
+https://btv.hridoytv-channel.workers.dev/btv.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Banglavision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Maasranga
+https://mtv.sunplex.live/MAASRANGA/index.m3u8#tawfique-iptv
+#EXTINF:-1  tvg-logo="https://tinyurl.com/24fgpxon" ,Duronto TV
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",SRK TV
 https://srktv.net/srktvhls/cdnlive_srktv.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Deepto
@@ -18,8 +22,6 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8#tawfique-iptv
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ekushe TV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Maasranga
-https://mtv.sunplex.live/MAASRANGA/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Boishakhi
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",NTV
