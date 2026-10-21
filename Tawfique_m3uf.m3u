@@ -12,7 +12,7 @@ https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8#tawfique-iptv
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Maasranga
 https://mtv.sunplex.live/MAASRANGA/index.m3u8#tawfique-iptv
-#EXTINF:-1  tvg-logo="https://tinyurl.com/24fgpxon" ,Duronto TV
+#EXTINF:-1  tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", Duronto TV
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",SRK TV
 https://srktv.net/srktvhls/cdnlive_srktv.m3u8#tawfique-iptv
