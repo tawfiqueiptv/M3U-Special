@@ -1,7 +1,9 @@
 #EXTM3U
+===============================================================================
 #EXT-X: Prepared By Tawfique IPTV
 #EXT-X: Tawfique IPTV Facebook Page Link: https://www.facebook.com/61595500590839/
 #EXT-X: Tawfique IPTV telegram group private: https://t.me/+PlkEVDvoxeJlMjM9
+================================================================================
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Tawfique-iptv Desk",Tawfique IPTV Promo 
 https://tinyurl.com/257ffua9#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Tawfique-iptv Desk", Lal Dupatta 
@@ -25,8 +27,6 @@ https://tinyurl.com/2yovxrx8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Tawfique-iptv Desk",Tapa Tini 
 https://tinyurl.com/2a72gxpv#tawfique-iptv
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV
-https://btv.hridoytv-channel.workers.dev/btv.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Banglavision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel i
@@ -79,9 +79,9 @@ https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8#tawfique-iptv
 https://drk6xq0vhn.gpcdn.net/live/ekhon_tv_abr/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Nagorik
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV
+https://btv.hridoytv-channel.workers.dev/btv.m3u8#tawfique-iptv
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon"  group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News", BTV News
-https://btv.hridoytv-channel.workers.dev/news.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News", ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News",Channel 24
@@ -98,6 +98,8 @@ https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8#tawfique-iptv
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News",Star News
 http://103.135.253.32:8080/Star-News/index.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon"  group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News", BTV News
+https://btv.hridoytv-channel.workers.dev/news.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
 https://raw.githubusercontent.com/ahan443/vibe-tv/refs/heads/main/ZeeBanglaHD.m3u8#tawfique-iptv
@@ -161,8 +163,14 @@ https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8#tawfique-iptv
 
-
-
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Bangla Drama(Tawfiqueiptv)", Sweet Crush
+https://tinyurl.com/2257xekb#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Bangla Drama(Tawfiqueiptv)",Megh Na Chaitei Bristi 
+https://tinyurl.com/2axmfsmq#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Bangla Drama(Tawfiqueiptv)", Ononta Valobasha
+https://tinyurl.com/2d5dbvlt#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Bangla Drama(Tawfiqueiptv)", Ice cream
+https://tinyurl.com/2xwlsebh#tawfique-iptv
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8#tawfique-iptv
@@ -205,8 +213,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV", Ion TV UK
 https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8#tawfique-iptv
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla
-http://14.96.244.82:5001/live/740.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",Bengali Beats
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",8XM
@@ -227,8 +233,10 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",Epic Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",yrf Music
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜", yrf Music
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla
+http://14.96.244.82:5001/live/740.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bhojpuri
 http://14.96.244.82:5001/live/741.m3u8#tawfique-iptv
 
@@ -240,8 +248,6 @@ https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8#ta
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon", Gopal Bhar
-https://tinyurl.com/28zuo8jw#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon",SuperToons TV
 https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD5100001HL
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon",Mr Bean Animated
@@ -273,10 +279,24 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon",Pogo
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8#tawfique-iptv
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)", Amra Korbo joy
-https://tinyurl.com/28acsw89#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)", Dol Dol Duluni
 https://tinyurl.com/24zae5yn#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)", Hattimatim Tim
+https://tinyurl.com/23x5kvgg#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)",Tatir Bari Benger Basha 
+https://tinyurl.com/24jrv8x2#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)",Ghum Parani Mashi Pishi 
+https://tinyurl.com/229x38x5#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)",Moumachi Moumachi 
+https://tinyurl.com/2yulsj5j#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)",Machli Jal Ki Rani Hai
+https://tinyurl.com/25d7leq5#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)",Twinkle Twinkle Little Star 
+https://tinyurl.com/28qp7pze#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)",Johny Johny Yes Papa 
+https://tinyurl.com/2xt38obg#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)", Amra Korbo joy
+https://tinyurl.com/28acsw89#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)", The Ant and The Grasshopper
 https://tinyurl.com/265r4vr7#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)", Ka e Kola Kha e Khai
