@@ -142,7 +142,9 @@ https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Movies",Zee Bangla Cinema
 https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Movies",Colors Bangla Cinema
-http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=dsgdfgsdfgasf
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=dsgdfgsdfgasf#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Movies",Jalsha Movies HD
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Movies",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Movies",SNB Cinema
@@ -228,7 +230,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8#tawfique-iptv
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla
-https://tinyurl.com/2dl9y9y5#tawfique-iptv
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",Bengali Beats
 https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",8XM
