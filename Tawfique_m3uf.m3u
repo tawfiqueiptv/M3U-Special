@@ -15,7 +15,7 @@ https://tinyurl.com/272ryl3u#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Tawfique-iptv Desk", Sonre o Jubok 
 https://tinyurl.com/23lvdjbp#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Tawfique-iptv Desk",Aaj Mon Cheyeche 
-https://tinyurl.com/26y33wzs#tawfique-iptv
+https://tinyurl.com/29wh94jy#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Tawfique-iptv Desk",Amar Gorur Gaarite 
 https://tinyurl.com/2ysxgxew#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Tawfique-iptv Desk",Je Tuku Somoy Tumi 
@@ -231,8 +231,6 @@ https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8#tawfique-iptv
 http://14.96.244.82:5001/live/250.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Music", Yrf Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",PTC Music
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",9X Jalwa
@@ -243,6 +241,8 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8#tawfique-iptv
 http://14.96.244.82:5001/live/740.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bhojpuri
 http://14.96.244.82:5001/live/741.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Music", Yrf Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8#tawfique-iptv
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8#tawfique-iptv
