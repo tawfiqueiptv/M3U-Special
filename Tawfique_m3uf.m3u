@@ -116,7 +116,7 @@ https://raw.githubusercontent.com/ahan443/vibe-tv/refs/heads/main/ZeeBanglaHD.m3
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Colors Bangla HD
-http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=dsgdfgsdfgasf
+http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=dsgdfgsdfgasf#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Sun Bangla
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Sony Aath
@@ -176,19 +176,6 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8#tawfique-iptv
-
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Movies(Tawfiqueiptv)", Ononta Valobasha
-https://tinyurl.com/2d5dbvlt#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Movies(Tawfiqueiptv)", Ice cream
-https://tinyurl.com/2xwlsebh#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Movies(Tawfiqueiptv)",C/O Sarangkot
-https://tinyurl.com/2ap5d6gg#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Movies(Tawfiqueiptv)",Laapataa Ladies
-https://tinyurl.com/27lwwr5v#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Movies(Tawfiqueiptv)",Saiyaara
-https://tinyurl.com/27bdkqb3#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Movies(Tawfiqueiptv)",Korapaak
-https://tinyurl.com/27c8yaky#tawfique-iptv
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8#tawfique-iptv
