@@ -1,9 +1,8 @@
 #EXTM3U
--------------------------------------------------------------------------------------------------------------------------------------------
 #EXT-X: Prepared By Tawfique IPTV
 #EXT-X: Tawfique IPTV Facebook Page Link: https://www.facebook.com/61595500590839/
 #EXT-X: Tawfique IPTV telegram group private: https://t.me/+PlkEVDvoxeJlMjM9
-----------------------------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Tawfique-iptv Desk",Tawfique IPTV Promo 
 https://tinyurl.com/257ffua9#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Tawfique-iptv Desk", Lal Dupatta 
@@ -97,14 +96,16 @@ https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8#tawfique-iptv
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Bangla Tv
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Bijoy Tv
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/tracks-v1a1/mono.ts.m3u8?e=1784102572&token=e11a2b199c36c7359982e55ec018196d&u=ee5437a7-c16b-4700-b317-a41b77d5cba9#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ekhon
 https://drk6xq0vhn.gpcdn.net/live/ekhon_tv_abr/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Nagorik
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel 52
+https://tinyurl.com/2xsx2hyb#tawfique-iptv
 #EXTINF:-1  tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", Duronto TV
 http://103.135.253.32:8080/DORONTU-TV/index.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Bijoy Tv
-https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/tracks-v1a1/mono.ts.m3u8?e=1784102572&token=e11a2b199c36c7359982e55ec018196d&u=ee5437a7-c16b-4700-b317-a41b77d5cba9#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV
 https://btv.hridoytv-channel.workers.dev/btv.m3u8#tawfique-iptv
 
