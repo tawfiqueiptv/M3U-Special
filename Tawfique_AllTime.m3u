@@ -1,9 +1,9 @@
 #EXTM3U
-==============================================================================
+-------------------------------------------------------------------------------------------------------------------------------------------
 #EXT-X: Prepared By Tawfique IPTV
 #EXT-X: Tawfique IPTV Facebook Page Link: https://www.facebook.com/61595500590839/
 #EXT-X: Tawfique IPTV telegram group private: https://t.me/+PlkEVDvoxeJlMjM9
-===============================================================================
+----------------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Tawfique-iptv Desk",Tawfique IPTV Promo 
 https://tinyurl.com/257ffua9#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Tawfique-iptv Desk", Lal Dupatta 
@@ -76,8 +76,10 @@ https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",RTV
 https://tvsen5.aynaott.com/RtvHD/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Channel 1
-https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8#tawfique-iptv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", Channel S UK
 https://is.gd/WvelbT#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",BTV Chattogram
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8#tawfique-iptv
