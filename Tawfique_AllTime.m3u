@@ -57,8 +57,6 @@ https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8#tawfique-iptv
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Maasranga
 https://mtv.sunplex.live/MAASRANGA/index.m3u8#tawfique-iptv
-#EXTINF:-1  tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", Duronto TV
-http://103.135.253.32:8080/DORONTU-TV/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",SRK TV
 https://srktv.net/srktvhls/cdnlive_srktv.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Deepto
@@ -84,15 +82,13 @@ https://is.gd/WvelbT#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",BTV Chattogram
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Independent
-https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/index.m3u8#tawfique-iptv
+https://s3.itcnbd.live/server-6/stream/aW1nL3BsYXkucGhwP3N0cmVhbT0yMDU.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ekattor HD
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Mohona Tv
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/tracks-v1a1/mono.ts.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ananda
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Bijoy Tv
-https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",My TV
@@ -105,13 +101,17 @@ https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8#tawfique-iptv
 https://drk6xq0vhn.gpcdn.net/live/ekhon_tv_abr/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Nagorik
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8#tawfique-iptv
+#EXTINF:-1  tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", Duronto TV
+http://103.135.253.32:8080/DORONTU-TV/index.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Bijoy Tv
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/tracks-v1a1/mono.ts.m3u8?e=1784102572&token=e11a2b199c36c7359982e55ec018196d&u=ee5437a7-c16b-4700-b317-a41b77d5cba9#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢", BTV
 https://btv.hridoytv-channel.workers.dev/btv.m3u8#tawfique-iptv
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News", ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News",Channel 24
-https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8#tawfique-iptv
+https://drk6xq0vhn.gpcdn.net/hls/channel_24_720/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News",News 24
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News",Jamuna
