@@ -346,21 +346,21 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8#tawfique-iptv
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", AXS TV Boxing
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", PFL MMA Wrestling
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", Fight I PFL MMA 
 https://d2w9b8sam7j3zv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5g55ahrn9ajah/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", Grappling Network Wrestling
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", Fight I Grappling Network 
 https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", GOLF PASS
 https://d2icntm6fhxrry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-egqimi4i6n3rh/master.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", Fuel TV Cycling
 https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", InTrouble Sports
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", In Trouble Sports
 https://amg00861-terninternation-introuble-sportstribal-sog8f.amagi.tv/ts-us-e2-n1/playlist/amg00861-terninternation-introuble-sportstribal/playlist.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", Red Bull TV UK
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", Strongman Horse Riding
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", Ride I Strongman Horse 
 https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", Poker Night In America
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", Cards I Poker Night In America
 https://e8d2c508ef1e469db82ceacd3c2685bc.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1068-Poker-Night-in-America-FREELIVESPORTS/mt/freelivesports/1068/hls/master/playlist.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", Unbeaten Sports
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8#tawfique-iptv
