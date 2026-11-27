@@ -102,10 +102,10 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8#tawfique-iptv
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News",DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News",Somoy Tv
-https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News",Somoy Tv
+https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News",Star News
 http://103.135.253.32:8080/Star-News/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon"  group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢 News", BTV News
@@ -187,8 +187,6 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m
 https://iptvbd.live/metv1080/1080.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV",News 21 Bangla
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV",Rajdhani 
-https://drk6xq0vhn.gpcdn.net/live/rajdhani_tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV",Doyel TV
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV",G Series Drama
@@ -223,6 +221,8 @@ https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV", Ion TV UK
 https://app.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="IPTV",Rajdhani 
+https://drk6xq0vhn.gpcdn.net/live/rajdhani_tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐌𝐮𝐬𝐢𝐜",Sangeet Bangla
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8#tawfique-iptv
@@ -315,7 +315,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Medina Live
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8#tawfique-iptv
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T-Sports 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", T-Sports
 https://tinyurl.com/2yykxuta#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Sports", DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8#tawfique-iptv 
