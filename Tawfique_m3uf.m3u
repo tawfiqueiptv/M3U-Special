@@ -251,9 +251,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon",Batul The Great
-https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8#tawfique-iptv
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon",Tom & Jerry TV
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8#tawfique-iptv
@@ -287,6 +284,9 @@ https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8#tawfique-iptv
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon",Pogo
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon",Batul The Great
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8#tawfique-iptv
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Cartoon",Tom & Jerry TV
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Kids(Tawfiqueiptv)", Dol Dol Duluni
 https://tinyurl.com/24zae5yn#tawfique-iptv
@@ -320,7 +320,7 @@ https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/chunks.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="Nature", Nature Time
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist720pl.m3u8#tawfique-iptv
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon"group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Iqra Bangla
+#EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰", Iqra Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8#tawfique-iptv
 #EXTINF:-1 tvg-logo="https://tinyurl.com/24fgpxon" group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰",Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpublish/shqurantv_source/chunks.m3u8#tawfique-iptv
